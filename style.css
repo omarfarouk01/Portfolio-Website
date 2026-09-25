@@ -63,3 +63,16 @@ footer {
         margin: 20px 15px;
     }
 }
+.project a {
+    display: inline-block;
+    padding: 10px 16px;
+    margin-top: 10px;
+    background: #222;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.project a:hover {
+    opacity: 0.8;
+}
