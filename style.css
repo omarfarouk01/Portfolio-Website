@@ -63,7 +63,8 @@ footer {
         margin: 20px 15px;
     }
 }
-.project a {
+.project a,
+section a {
     display: inline-block;
     padding: 10px 16px;
     margin-top: 10px;
