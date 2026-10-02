@@ -77,3 +77,17 @@ section a {
 .project a:hover {
     opacity: 0.8;
 }
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
